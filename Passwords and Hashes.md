@@ -1,4 +1,4 @@
 # Passwords and Hashes
 
-==Hash Identification==
+Hash Identification
 https://hashcat.net/wiki/doku.php?id=example_hashes
