@@ -4,7 +4,7 @@ Cheatsheet
 *save your scans and captured information*
 1. Active Recon
 	1. [[nmap]]: quick and full 
-		1. `nmap -vvv <IP> | tee -a nmap.quick
+		1. `nmap -vvv <IP> | tee -a nmap.quick`
 		 2. `nmap -A -T4 -p- 10.10.175.200 | tee -a nmap.full`
 	1. if webserver, gobuster scan, then investigate website
 		1. `gobuster dir -u http://10.10.175.200/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt | tee -a gobuster`
