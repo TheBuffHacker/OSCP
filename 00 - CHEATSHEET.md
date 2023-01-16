@@ -1,4 +1,4 @@
-Cheatsheet
+# **OSCP Cheatsheet**
 #### High Level Methodology
 *create a folder for that box: ie THM > GameZone*
 *save your scans and captured information*
