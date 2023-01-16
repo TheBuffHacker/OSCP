@@ -17,7 +17,7 @@ Cheatsheet
 *If you have a payload that doesn't work, try the other type of payload so maybe a staged and non-staged payload*
 
 
-- [SQLi](OSCP/SQLi.md)
+- [SQLi](/SQLi.md)
 - [[nmap]]
 - [[Passwords and Hashes]]
 - [[Shells and Payloads]]
